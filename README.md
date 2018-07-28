@@ -1,0 +1,2 @@
+# ldydjango
+django kakao
